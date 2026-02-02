@@ -70,8 +70,6 @@ export default {
       favicon: "./assets/favicon.png",
       // Metro bundler for web
       bundler: "metro",
-      // Static output for GitHub Pages
-      output: "static",
       // Base URL for GitHub Pages (repository name)
       baseUrl: "/memo"
     }
